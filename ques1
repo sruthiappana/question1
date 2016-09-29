@@ -5,6 +5,5 @@ main()
 {
 printf("Hello");
 printf("heyy");
-printf();
 getch();
 }
